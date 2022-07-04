@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-#include <stdio>
+#include <stdio.h>
 /**
  * main - Entry point
  *
@@ -18,7 +18,7 @@ printf("greater than 5");
 }
 if (n == 0)
 {
-print("0");
+printf("0");
 }
 if (n > 6 && n != 0)
 {
